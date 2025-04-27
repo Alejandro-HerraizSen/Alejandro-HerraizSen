@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>Don't forget to visit my portfolio:</strong>  
-  <a href="https://alejandro-herraizsen.github.io/">alejandro-herraizsen.github.io</a>
+  <a href="https://alejandro-herraizsen.github.io/">Alejandro-HerraizSen.github.io</a>
 </p>
 
 ---
@@ -13,12 +13,12 @@
 <!-- 📊 Contribution Calendar & Profile Summary -->
 <p align="center">
   <!-- Contribution Calendar -->
-  <img src="https://github-readme-calendar.vercel.app/graph?username=alejandro-herraizsen&theme=github&hide_border=true" alt="Contribution Calendar" />
+  <img src="https://github-readme-calendar.vercel.app/graph?username=Alejandro-HerraizSen&theme=github&hide_border=true" alt="Contribution Calendar" />
 
   <!-- Profile Summary: Active days, current & longest streak, gap, busiest day -->
   <br/>
-  <img src="https://github-profile-summary.vercel.app/api/summary/alejandro-herraizsen?theme=github" alt="Profile Summary" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro-herraizsen&theme=github&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary.vercel.app/api/summary/Alejandro-HerraizSen?theme=github" alt="Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro-HerraizSen&theme=github&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -26,10 +26,10 @@
 <!-- 📈 Lines of Code (LOC) Analysis -->
 <p align="center">
   <!-- Most Used Languages Overall -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-herraizsen&layout=compact&theme=github" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-HerraizSen&layout=compact&theme=github" alt="Top Languages" />
 
   <!-- Commit Activity: added vs deleted per day -->
-  <img src="https://github-readme-stats.vercel.app/api/commit-activity?username=alejandro-herraizsen&theme=github" alt="Commit Activity" />
+  <img src="https://github-readme-stats.vercel.app/api/commit-activity?username=Alejandro-HerraizSen&theme=github" alt="Commit Activity" />
 </p>
 
 <p align="center">
